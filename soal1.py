@@ -1,0 +1,6 @@
+a = float(input("Masukkan angka a = "))
+b = float(input("Masukkan angka b = "))
+c = float(input("Masukkan angka c = "))
+d = float(input("Masukkan angka d = "))
+e = float(input("Masukkan angka e = "))
+print(float((a+b+c+d+e)/2))
